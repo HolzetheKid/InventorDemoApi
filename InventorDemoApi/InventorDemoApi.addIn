@@ -1,0 +1,14 @@
+﻿<Addin Type="Standard">
+	<!--Created for Autodesk Inventor Version 24.0-->
+	<ClassId>{a7695474-67ee-49da-9a09-283ef242a9b2}</ClassId>
+	<ClientId>{a7695474-67ee-49da-9a09-283ef242a9b2}</ClientId>
+	<DisplayName>InventorDemoApi</DisplayName>
+	<Description>InventorDemoApi</Description>
+	<Assembly>InventorDemoApi.dll</Assembly>
+	<LoadOnStartUp>1</LoadOnStartUp>
+	<UserUnloadable>1</UserUnloadable>
+	<Hidden>0</Hidden>
+	<SupportedSoftwareVersionGreaterThan>17..</SupportedSoftwareVersionGreaterThan>
+	<DataVersion>1</DataVersion>
+	<UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
